@@ -1,0 +1,63 @@
+header{
+    background-color: gray;
+    display: flex;
+    justify-content: space-between;
+}
+
+#logo{
+    width: 1.3cm;
+    height: 1.3cm;
+}
+
+#apresentacao {
+    text-align: center;
+    background-color: black;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+button {
+    color: white;
+    background-color: red;
+    border-color: red;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 1.3cm;
+    width: 2cm;
+}
+
+.dispositivo {
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    background-color: black;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.baixarfilmes {
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    background-color: black;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#vantagens {
+    text-align: center;
+    background-color: black;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#listavantagens {
+    display: flex;
+    justify-content: space-between;
+}
+
+footer {
+    text-align: center;
+    background-color: black;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
